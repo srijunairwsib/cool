@@ -2,3 +2,9 @@ Packing list
 ------------
 
 - shoes
+- coat
+
+Picnic
+------
+
+- bread
